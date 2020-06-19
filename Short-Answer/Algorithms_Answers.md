@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a)The number of operations-->(runtime) will increase at a linear rate as the size of the input increases-->(the n).
 
 
-b)
+b)runtime complexity will be " O(n^n) " because the snippet will have nested loops. operations will increase quadratically?
 
 
-c)
+c)this will also be O(n) like the fisrt one but it will still loop through each value
 
 ## Exercise II
 
