@@ -8,7 +8,7 @@ a)The number of operations-->(runtime) will increase at a linear rate as the siz
 b)runtime complexity will be " O(n^n) " because the snippet will have nested loops. operations will increase quadratically
 
 
-c)this will also be O(n) like the fisrt one but it will for each value (its like a mix of the 1st 2 but no loop)
+c)this will also be O(n) like the fisrt one but it will for each value (its like a mix of the 1st 2 but no loop) 
 
 ## Exercise II
 
